@@ -1,0 +1,18 @@
+*{
+    background-color:blueviolet;
+}
+body{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+#header {
+    clear:right;
+}
+#duty{
+    clear:left;
+    background-color:white;
+}
+#duties {
+    margin:50px;
+}
